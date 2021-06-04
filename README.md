@@ -1,6 +1,7 @@
 # README-Generator
 
 Description: 
+
 I created a README generator application using node. The user enters node index.js into console and is prompted for responses to fill in the necessary README fields. 
 When the prompt finishes, the user is notified that a README.md file has been created for their program. The fields are neatly displayed with a table of contents section
 at the top which when clicked, the screen will move to the chosen section. 
@@ -12,7 +13,7 @@ Dependencies used:
 Inquierer NPM package. To download package enter npm i into console.
 
 
-
+Link to video example:
 https://drive.google.com/file/d/1Z9FYWFeGExbbk6LavRYydKljb8oRLRIv/view?usp=sharing
 
 ## User Story
