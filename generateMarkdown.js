@@ -3,7 +3,7 @@
 
 function generateMarkdown(data) {
   return `# ${data.title}
-${data.license === 'none' ? '' : `![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)`}
+${data.license === 'none' ? '' : `![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)`} 
 
 ## Table of Contents
 * [Description](#description)
@@ -22,7 +22,11 @@ ${data.usage}
 
 ## Installation
 When opening the repo, you have to install the npm packages for the README generator to work. The files include: 
-<ul><li>inquirer<li><ul>
+
+<ul>
+<li>inquirer</li>
+</ul>
+
 Enter this into console: ${data.installation}
 
 ${data.license === 'none' ? '' : `## License

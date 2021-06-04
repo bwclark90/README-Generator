@@ -44,10 +44,10 @@ const questions = [{
   name: "license",
   choices: [
     "none",
-    "afl-3.0",
-    "mit",
-    "osl-3.0",
-    "apache-2.0"
+    "GPL 3.0",
+    "MIT",
+    "BSD 3",
+    "APACHE 2.0"
   ]
 
 },
