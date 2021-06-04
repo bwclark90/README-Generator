@@ -13,6 +13,7 @@ ${data.license === 'none' ? '' : '* [License](#license)'}
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Contact](#contact)
+* [Questions](#questions)
 
 ## Description
 ${data.description}
@@ -40,6 +41,9 @@ To run tests on program, enter: ${data.tests} into console
 
 ## Contact
 GitHub name ${data.contact}
+
+## Questions
+If you have any questions regarding my program or would like to collaborate contact me via email: ${data.questions}
 
 
 
